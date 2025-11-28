@@ -1,4 +1,3 @@
-
 # Exp 4 Experimental verification of frequency response of Analog fiber optic link
 # Fiber Optic Link Analysis (660nm)
 
@@ -43,33 +42,37 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 ---
 
 ## BLOCK DIAGRAM
+![WhatsApp Image 2025-11-28 at 8 58 20 AM](https://github.com/user-attachments/assets/49050940-7984-4d46-b772-82b742bc6f07)
 
-*(Insert block diagram here)*
-
----
-
-## CONNECTION DIAGRAM  
-**Setting up an Analog Link**
-
-*(Insert connection diagram here)*
 
 ---
+
+
 
 ## TABULATION  
 **Transmission through Analog Link**
-
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
 |----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+|    50 Hz	     |            138v	            |     0.644	   |   1.938    |
+|    3.33 Hz	  |            150v	            |     0.700    |   1.549    |
+|    9.86 Hz	  |            148v	            |     0.691	   |   1.605    |
+|    10.2 kHz	  |            148v	            |     0.691	   |   1.605    |
+|    13 kHz	     |            148v	            |     0.68	   |   1.674    |
+|    16 kHz	     |            148v	            |     0.672    |   1.726    |    
+|    33 kHz	     |            148v	            |     0.684	   |   1.844    |
+|    3 MHz	     |            136v  	         |     0.028	   |   1.528    |
 
 ---
 
 ## MODEL GRAPH
+![WhatsApp Image 2025-11-28 at 8 58 34 AM](https://github.com/user-attachments/assets/f5128619-ae2f-4422-a900-3f0b22c6aaca)
 
-*(Insert model graph here)*
 
 ---
+## output graph
+!![WhatsApp Image 2025-11-28 at 10 51 25_aa6431f8](https://github.com/user-attachments/assets/f3774f10-202d-4298-9e13-15d255d10c07)
+
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the relationship between input and received output signal from 660nm fibre optic cable using analog link is analyzed
